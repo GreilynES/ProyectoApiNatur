@@ -10,7 +10,7 @@ namespace Services.MyDbContext
 {
     public class MyContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+      /*  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseInMemoryDatabase("MyDatabase");
@@ -23,6 +23,6 @@ namespace Services.MyDbContext
             modelBuilder.Entity<Book>()
                 .HasOne(book => book.Author)
                 .WithMany(author => author.Books);
-        }
+        }*/
     }
 }

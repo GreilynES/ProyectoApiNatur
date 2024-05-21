@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Order
 {
-    internal interface ISvOrder
+    public interface ISvOrder
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Categories
 {
-    internal interface ISvCategories
+    public interface ISvCategories
     {
     }
 }

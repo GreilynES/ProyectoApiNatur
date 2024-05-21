@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Categories
 {
-    internal class SvCategories
+    public class SvCategories
     {
     }
 }

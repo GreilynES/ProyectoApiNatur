@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Order_Confirmation
+    public class Order_Confirmation
     {
     }
 }

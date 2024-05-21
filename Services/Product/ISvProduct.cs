@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Product
 {
-    internal interface ISvProduct
+    public interface ISvProduct
     {
     }
 }
