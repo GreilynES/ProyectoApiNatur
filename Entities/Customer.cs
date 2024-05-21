@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
-    public class Customer   
+    public class Customer   //cambio lilin
     {
         public int Id { get; set; }
 
