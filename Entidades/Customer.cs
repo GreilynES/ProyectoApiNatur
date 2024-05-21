@@ -15,5 +15,7 @@ namespace Entidades
         public string eMail { get; set; }
 
         public int phoneNumber { get; set; }
+
+        List<Order_Confirmation> order_Confirmations { get; set; }
     }
 }
