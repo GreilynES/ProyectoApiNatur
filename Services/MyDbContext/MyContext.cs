@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Services.MyDbContext
 {
-    public class MyContext : DbContext
+    public class MyContext : DbContext //lilin
     {
       /*  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
