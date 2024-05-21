@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Customer
 {
-    public class SvCostumer
+    public class SvCustomer : ISvCustomer
     {
     }
 }

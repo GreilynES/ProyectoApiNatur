@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Customer
 {
-    public interface ISvCostumer
+    public interface ISvCustomer
     {
     }
 }

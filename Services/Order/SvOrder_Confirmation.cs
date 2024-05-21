@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Order
 {
-    public class SvOrder_Confirmation
+    public class SvOrder_Confirmation : ISvOrder
     {
     }
 }
