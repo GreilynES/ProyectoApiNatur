@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\greil\\documents\\progra 2\\api-proyecto2\\services\\categories\\svcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\categories\\svcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\greil\\documents\\progra 2\\api-proyecto2\\services\\categories\\isvcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\categories\\isvcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464C9BA5-9873-4824-802D-03D4F030AB2F}|EntityFramework_Prueba\\EntityFramework_Prueba.csproj|c:\\users\\greil\\documents\\progra 2\\api-proyecto2\\entityframework_prueba\\entityframework_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{464C9BA5-9873-4824-802D-03D4F030AB2F}|EntityFramework_Prueba\\EntityFramework_Prueba.csproj|solutionrelative:entityframework_prueba\\entityframework_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SvCategories.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\Services\\Categories\\SvCategories.cs",
+              "RelativeDocumentMoniker": "Services\\Categories\\SvCategories.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\Services\\Categories\\SvCategories.cs",
+              "RelativeToolTip": "Services\\Categories\\SvCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:29:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISvCategories.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\Services\\Categories\\ISvCategories.cs",
+              "RelativeDocumentMoniker": "Services\\Categories\\ISvCategories.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\Services\\Categories\\ISvCategories.cs",
+              "RelativeToolTip": "Services\\Categories\\ISvCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:29:24.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityFramework_Prueba",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\EntityFramework_Prueba\\EntityFramework_Prueba.csproj",
+              "RelativeDocumentMoniker": "EntityFramework_Prueba\\EntityFramework_Prueba.csproj",
+              "ToolTip": "C:\\Users\\greil\\Documents\\Progra 2\\API-PROYECTO2\\EntityFramework_Prueba\\EntityFramework_Prueba.csproj",
+              "RelativeToolTip": "EntityFramework_Prueba\\EntityFramework_Prueba.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T23:29:08.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
