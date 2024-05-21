@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\greil\\Documents\\Natur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\order_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\order_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|c:\\users\\greil\\documents\\natur\\entities\\order_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146F0BF7-EE67-47F0-B005-273F9A702105}|Entities\\Entities.csproj|solutionrelative:entities\\order_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\greil\\documents\\natur\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Product.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Categories.cs",
               "RelativeDocumentMoniker": "Entities\\Categories.cs",
@@ -72,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Entities\\Customer.cs",
               "ToolTip": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Customer.cs",
               "RelativeToolTip": "Entities\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T22:59:37.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Order_Confirmation.cs",
               "DocumentMoniker": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Order_Confirmation.cs",
               "RelativeDocumentMoniker": "Entities\\Order_Confirmation.cs",
@@ -93,8 +93,7 @@
               "RelativeToolTip": "Entities\\Order_Confirmation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T22:59:03.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T22:59:03.394Z"
             },
             {
               "$type": "Document",
