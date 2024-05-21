@@ -9,5 +9,6 @@ namespace Services.MyDbContext
 {
     public class MyContext 
     {
+
     }
 }

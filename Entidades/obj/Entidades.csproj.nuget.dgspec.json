@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\greil\\Documents\\natur\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\greil\\Documents\\natur\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\greil\\Documents\\natur\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\greil\\Documents\\natur\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\greil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\greil\\Documents\\natur\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\kathe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\greil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
