@@ -1268,23 +1268,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Angélica\\.nuget\\packages\\": {},
+    "C:\\Users\\greil\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angélica\\Desktop\\Proyecto\\API_PruebaEF\\API_PruebaEF.csproj",
+      "projectUniqueName": "C:\\Users\\greil\\Documents\\Natur\\API_PruebaEF\\API_PruebaEF.csproj",
       "projectName": "API_PruebaEF",
-      "projectPath": "C:\\Users\\Angélica\\Desktop\\Proyecto\\API_PruebaEF\\API_PruebaEF.csproj",
-      "packagesPath": "C:\\Users\\Angélica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angélica\\Desktop\\Proyecto\\API_PruebaEF\\obj\\",
+      "projectPath": "C:\\Users\\greil\\Documents\\Natur\\API_PruebaEF\\API_PruebaEF.csproj",
+      "packagesPath": "C:\\Users\\greil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\greil\\Documents\\Natur\\API_PruebaEF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Angélica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\greil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1299,8 +1299,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Angélica\\Desktop\\Proyecto\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Angélica\\Desktop\\Proyecto\\Services\\Services.csproj"
+            "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj"
             }
           }
         }
@@ -1352,7 +1352,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
