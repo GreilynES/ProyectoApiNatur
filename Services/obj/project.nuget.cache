@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Jq0/3w4JWQlr1/vGaCqd63DC+dZv93SqA7bZho6U4YzIFkS1THGgMHUEkbTTAKRQNGWLIB1DHeOgwhBkrqY39g==",
   "success": false,
   "projectFilePath": "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj",
+=======
+  "dgSpecHash": "kp/hLYBw1/ElsFVtfopQXltfDpQV+bfXwZVj+YhSgAZaP8wNkPpBACNWYRaWpb4PWCz+7YeSAtlRCQlXrAefSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Services\\Services.csproj",
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
   "expectedPackageFiles": [
     "C:\\Users\\greil\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
     "C:\\Users\\greil\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.18\\microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",

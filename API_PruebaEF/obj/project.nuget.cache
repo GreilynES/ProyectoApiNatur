@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JGsnc0zwjodov9p7KVcTUA6ZrFpMR6FGugiYCg86QFLD7A+Q6j6X4Vmz2ROm0Bu/DBvTEM70L/6j0GR7LOk/Cg==",
   "success": false,
   "projectFilePath": "C:\\Users\\greil\\Documents\\Natur\\API_PruebaEF\\API_PruebaEF.csproj",
+=======
+  "dgSpecHash": "hyJ6rJCV346SFxQVpbFYX2RckAyjbIQMx/Ria7VTTatUm01q6LKWW7Csa+iCPWd7XgQ2UKkkCquI30CAaBGdIA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\API_PruebaEF\\API_PruebaEF.csproj",
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
   "expectedPackageFiles": [
     "C:\\Users\\greil\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.18\\microsoft.aspnetcore.jsonpatch.7.0.18.nupkg.sha512",
     "C:\\Users\\greil\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.18\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.18.nupkg.sha512",
@@ -33,8 +39,13 @@
     {
       "code": "NU1104",
       "level": "Error",
+<<<<<<< HEAD
       "message": "Unable to find project 'C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj'. Check that the project reference is valid and that the project file exists.",
       "libraryId": "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj",
+=======
+      "message": "No se encuentra el proyecto \"C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj",
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
       "targetGraphs": [
         "net7.0"
       ]

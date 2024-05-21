@@ -396,6 +396,22 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+<<<<<<< HEAD
+=======
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "7.0.18"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
       "Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1246,6 +1262,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 7.0.18",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
       "Services >= 1.0.0",
@@ -1284,8 +1301,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj": {
               "projectPath": "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj"
+=======
+            "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Services\\Services.csproj"
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
             }
           }
         }
@@ -1345,8 +1370,13 @@
     {
       "code": "NU1104",
       "level": "Error",
+<<<<<<< HEAD
       "message": "Unable to find project 'C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj'. Check that the project reference is valid and that the project file exists.",
       "libraryId": "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj",
+=======
+      "message": "No se encuentra el proyecto \"C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj",
+>>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
       "targetGraphs": [
         "net7.0"
       ]
