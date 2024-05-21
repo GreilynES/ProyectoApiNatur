@@ -1261,6 +1261,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 7.0.18",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
       "Services >= 1.0.0",
@@ -1300,6 +1301,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj"
+            },
             "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Services\\Services.csproj": {
               "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Services\\Services.csproj"
             }
@@ -1351,5 +1355,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API PROYECTO\\ProyectoApiNatur\\Entities\\Entities.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
