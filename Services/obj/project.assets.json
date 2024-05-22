@@ -213,22 +213,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
-<<<<<<< HEAD
-=======
       },
       "Entities/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.InMemory": "7.0.18"
-        },
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
->>>>>>> 536d99b271ca0da0a0bac8b890335bceef6ba29b
       }
     }
   },
@@ -556,32 +550,38 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj",
+      "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entidades\\Entidades.csproj",
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.18"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\greil\\.nuget\\packages\\": {},
+    "C:\\Users\\kathe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\greil\\Documents\\Natur\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\greil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\greil\\Documents\\Natur\\Services\\obj\\",
+      "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\kathe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\greil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -590,14 +590,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj"
+            "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entities\\Entities.csproj"
             }
           }
         }
@@ -606,11 +610,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -638,7 +637,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -646,8 +645,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\greil\\Documents\\Natur\\Entidades\\Entidades.csproj",
+      "message": "No se encuentra el proyecto \"C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entidades\\Entidades.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entidades\\Entidades.csproj",
       "targetGraphs": [
         "net7.0"
       ]

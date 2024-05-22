@@ -13,6 +13,6 @@ namespace Entities
 
         public Customer Customer { get; set; }
 
-        List<Product> products { get; set; }
+        List <Product> products { get; set; }
     }
 }

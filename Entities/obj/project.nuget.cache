@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hYgzfqrZ4raFJ9Z9Pgen8mgH0PqzHUXiwI+qnohR9K/pkZTzxdJmDdy5pSFcF2vrYrqpRUSFnOCq5m9CeLytjw==",
+  "dgSpecHash": "05ZUX41jQtNLH4RpN2szdet48AVsAoPYzubtyuqbk71GlCcQVx1YRWz7iXMiM6A07H2ZxLwYWCHvgq74jrNEng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\greil\\Documents\\Natur\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kathe\\OneDrive\\Escritorio\\API p\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.18\\microsoft.aspnetcore.jsonpatch.7.0.18.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.18\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.18.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,8 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_PruebaEF", "API_PruebaEF\API_PruebaEF.csproj", "{5A74D86D-8380-4548-BDD9-6663197BF047}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{27C173E7-A05F-48BE-870A-28303F3AC781}"
+	ProjectSection(ProjectDependencies) = postProject
+		{146F0BF7-EE67-47F0-B005-273F9A702105} = {146F0BF7-EE67-47F0-B005-273F9A702105}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{146F0BF7-EE67-47F0-B005-273F9A702105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{146F0BF7-EE67-47F0-B005-273F9A702105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
